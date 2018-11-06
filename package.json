@@ -1,0 +1,16 @@
+{
+  "name": "hm-loger",
+  "version": "0.0.1",
+  "description": "simple loger fore nmm cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/index.js"
+  },
+  "keywords": [
+    "npm",
+    "loger",
+    "headmad"
+  ],
+  "author": "HeadMad",
+  "license": "ISC"
+}
